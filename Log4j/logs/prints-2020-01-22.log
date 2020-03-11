@@ -1,0 +1,9 @@
+14:39:25.500 [main] FATAL beta.Ronak - Ronak logged
+14:40:04.988 [main] INFO  alpha.Shraddha - wrong information
+14:40:04.992 [main] ERROR alpha.Shraddha - object not present
+14:40:04.992 [main] INFO  alpha.Shraddha - wrong info
+14:40:04.992 [main] DEBUG alpha.Shraddha - object present
+14:40:04.992 [main] FATAL alpha.Shraddha - logged
+14:40:30.418 [main] INFO  beta.Ronak - Ronakjkdj
+14:40:30.422 [main] ERROR beta.Ronak - Ronakjkdjobject not present
+14:40:30.422 [main] INFO  beta.Ronak - Ronakjkdjwrong info
